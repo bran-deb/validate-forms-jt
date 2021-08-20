@@ -3,8 +3,8 @@
 
 ## 💻 Built with
 > - CSS
-- HTML
-- JavaScript
+> - HTML
+> - JavaScript
 
 ## 💾 Features
 validate a form with the use of regular expressions
